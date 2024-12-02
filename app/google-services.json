@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "425006904626",
+    "project_id": "pokedexv1-c6a6e",
+    "storage_bucket": "pokedexv1-c6a6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425006904626:android:10c01e44cd4d656238132b",
+        "android_client_info": {
+          "package_name": "com.feedapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTU_vYq2T8xuwVP4fPUa5r0cNdaHB3sIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425006904626:android:9b01223496eeda4f38132b",
+        "android_client_info": {
+          "package_name": "dev.marcosfarias.pokedex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTU_vYq2T8xuwVP4fPUa5r0cNdaHB3sIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425006904626:android:ab95ac979956cf6038132b",
+        "android_client_info": {
+          "package_name": "hu.vmiklos.plees_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTU_vYq2T8xuwVP4fPUa5r0cNdaHB3sIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
